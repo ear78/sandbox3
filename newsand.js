@@ -5,3 +5,5 @@ function newName() {
 }
 
 this is another update to the code.
+
+Yet another change when using a branch.
